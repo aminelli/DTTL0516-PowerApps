@@ -1,0 +1,61 @@
+{
+  "ComponentIndexes": {
+    "Date Functions": 1,
+    "fx_Date": 1
+  },
+  "ControlUniqueIds": {
+    "App": 1,
+    "Date Functions": 3,
+    "fx_Date": 6,
+    "lbl_TItle": 5,
+    "Title Screen": 4
+  },
+  "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "11/01/2021 16:49:03",
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "Business-Cat": "0001.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "Business-Cat": "https://docserverpwaprodwus.blob.core.windows.net/23d33b3f-9e70-40c7-9be5-0b0ff7dd4d36-1/resource/Assets0Images00001.jpg?sv=2017-04-17&sr=b&sig=8JmkszPVjO7hgFxBfTauneq8JUG1gep3Ex8nvl7Xn0o%3D&spr=https&se=2021-11-02T16%3A55%3A59Z&sp=r"
+  },
+  "OldLogoFileName": "sm10sthw.jpg",
+  "OrderComponentMetadata": {
+    "cf1d2052d1834b2dac2630f084ce61b9": 0
+  },
+  "OrderComponentTemplate": {
+    "cf1d2052d1834b2dac2630f084ce61b9": 0
+  },
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "label": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Date Functions": 0,
+    "fx_Date": 1,
+    "lbl_TItle": 0,
+    "Title Screen": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-Business-Cat": 0,
+    "Image-SampleImage": 1
+  },
+  "TemplateVersions": {
+    "cf1d2052d1834b2dac2630f084ce61b9": "637713821436581973"
+  },
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.073204400000000003,
+    "ControlCount": {
+      "cf1d2052d1834b2dac2630f084ce61b9": 2,
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.1523969,
+    "ErrorCount": 4
+  }
+}

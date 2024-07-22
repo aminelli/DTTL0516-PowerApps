@@ -1,0 +1,1715 @@
+[
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-endofquarter",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "EndOfQuarter",
+        "shortDescription": "Get the last day of a quarter.",
+        "longDescription": [
+            "Get the last day of a quarter."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#EndOfQuarter",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "QUARTER",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/endofquarter.png",
+                "alt": "End of Quarter"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-endofmonth",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "EndOfMonth",
+        "shortDescription": "Get the last day of a month",
+        "longDescription": [
+            "Get the last day of a month"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#EndOfMonth",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "MONTH",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/endofmonth.png",
+                "alt": "End of Month"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-endofweek",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "EndOfWeek",
+        "shortDescription": "Get the last day of a week",
+        "longDescription": [
+            "Get the last day of a week"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#endofweek",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "WEEK",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/endofweek.png",
+                "alt": "End of Week"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-endofyear",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "EndOfYear",
+        "shortDescription": "Get the last day of a year",
+        "longDescription": [
+            "Get the last day of a year"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#endofyear",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "YEAR",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/endofyear.png",
+                "alt": "End of Year"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isbetweendates",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsBetweenDates",
+        "shortDescription": "Checks if a date is within a specified date range",
+        "longDescription": [
+            "Checks if a date is within a specified date range"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isbetweendates",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isleapyear",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsLeapYear",
+        "shortDescription": "Checks if a date belongs to a leap year",
+        "longDescription": [
+            "Checks if a date belongs to a leap year"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isleapyear",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "YEAR",
+            "LEAP"
+        ],        
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isincurrentday",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInCurrentDay",
+        "shortDescription": "Checks if a date occurs within the current day",
+        "longDescription": [
+            "Checks if a date occurs within the current day"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isincurrentday",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "TODAY",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/isincurrentday.png",
+                "alt": "Is In Current Day"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isincurrentmonth",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInCurrentMonth",
+        "shortDescription": "Checks if a date occurs within the current month",
+        "longDescription": [
+            "Checks if a date occurs within the current month"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isincurrentmonth",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "MONTH",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/isincurrentmonth.png",
+                "alt": "Is In Current Month"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isincurrentquarter",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInCurrentQuarter",
+        "shortDescription": "Checks if a date occurs within the current quarter",
+        "longDescription": [
+            "Checks if a date occurs within the current quarter"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isincurrentquarter",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "QUARTER",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/isincurrentquarter.png",
+                "alt": "Is In Current Quarter"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isincurrentweek",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInCurrentWeek",
+        "shortDescription": "Checks if a date occurs within the current week",
+        "longDescription": [
+            "Checks if a date occurs within the current week"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isincurrentweek",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "WEEK",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/isincurrentweek.png",
+                "alt": "Is In Current Week"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isincurrentyear",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInCurrentYear",
+        "shortDescription": "Checks if a date occurs within the current year",
+        "longDescription": [
+            "Checks if a date occurs within the current year"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isincurrentyear",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "YEAR",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/isincurrentyear.png",
+                "alt": "Is In Current Year"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinnextndays",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInNextNDays",
+        "shortDescription": "Checks if a date occurs within the next number of days.",
+        "longDescription": [
+            "Checks if a date occurs within the next number of days. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinnextndays",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinnextnmonths",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInNextNMonths",
+        "shortDescription": "Checks if a date occurs within the next number of months.",
+        "longDescription": [
+            "Checks if a date occurs within the next number of months. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinnextnmonths",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "MONTH"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinnextnquarters",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInNextNQuarters",
+        "shortDescription": "Checks if a date occurs within the next number of quarters. ",
+        "longDescription": [
+            "Checks if a date occurs within the next number of quarters. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinnextnquarters",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "QUARTER"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinnextnweeks",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInNextNWeeks",
+        "shortDescription": "Checks if a date occurs within the next number of weeks. ",
+        "longDescription": [
+            "Checks if a date occurs within the next number of weeks. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinnextnweeks",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "WEEK"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinnextnyears",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInNextNYears",
+        "shortDescription": "Checks if a date occurs within the next number of years.",
+        "longDescription": [
+            "Checks if a date occurs within the next number of years. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinnextnyears",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "YEAR"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinpreviousndays",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInPreviousNDays",
+        "shortDescription": "Checks if a date occurs within the previous number of days. ",
+        "longDescription": [
+            "Checks if a date occurs within the previous number of days. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinpreviousndays",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinpreviousnmonths",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInPreviousNMonths",
+        "shortDescription": "Checks if a date occurs within the previous number of months. Start date defaults to the current date.",
+        "longDescription": [
+            "Checks if a date occurs within the previous number of months."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinpreviousnmonths",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "MONTH"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinpreviousnquarters",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInPreviousNQuarters",
+        "shortDescription": "Checks if a date occurs within the previous number of quarters.",
+        "longDescription": [
+            "Checks if a date occurs within the previous number of quarters. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinpreviousnquarters",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "QUARTER"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinpreviousnweeks",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInPreviousNWeeks",
+        "shortDescription": "Checks if a date occurs within the previous number of weeks.",
+        "longDescription": [
+            "Checks if a date occurs within the previous number of weeks. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinpreviousnweeks",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "WEEK"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-isinpreviousnyears",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "IsInPreviousNYears",
+        "shortDescription": "Checks if a date occurs within the previous number of years.",
+        "longDescription": [
+            "Checks if a date occurs within the previous number of years. Start date defaults to the current date."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#isinpreviousnyears",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "YEAR"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/date-functions-preview.png",
+                "alt": "Date functions"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-networkdays",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "NetWorkDays",
+        "shortDescription": "Find the number of work days between two dates.",
+        "longDescription": [
+            "Find the number of work days between two dates."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#networkdays",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "DAY",
+            "WEEKDAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/networkdays.png",
+                "alt": "Net Work Days"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-startofmonth",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "StartOfMonth",
+        "shortDescription": "Get the first day of a month.",
+        "longDescription": [
+            "Get the first day of a month."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#startofmonth",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "RANGE",
+            "MONTH"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/startofmonth.png",
+                "alt": "Start of Month"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-startofquarter",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "StartOfQuarter",
+        "shortDescription": "Get the first day of a quarter.",
+        "longDescription": [
+            "Get the first day of a quarter."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#startofquarter",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "QUARTER",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/startofquarter.png",
+                "alt": "Start of Quarter"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-startofweek",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "StartOfWeek",
+        "shortDescription": "Get the first day of a week.",
+        "longDescription": [
+            "Get the first day of a week."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#startofweek",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "DAY",
+            "WEEK"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/startofweek.png",
+                "alt": "Start of Week"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-startofyear",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "StartOfYear",
+        "shortDescription": "Get the first day of a year",
+        "longDescription": [
+            "Get the first day of a year"
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#startofyear",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "YEAR",
+            "DAY"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/startofyear.png",
+                "alt": "Start of Year"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-weekofmonth",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "WeekOfMonth",
+        "shortDescription": "Takes a date and returns a week number (1-6) that corresponds to the week of the month.",
+        "longDescription": [
+            "Takes a date and returns a week number (1-6) that corresponds to the week of the month."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#weekofmonth",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "WEEK",
+            "MONTH"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/weekofmonth.png",
+                "alt": "Week of Month"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-weekofyear",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "WeekOfYear",
+        "shortDescription": "Takes a date and returns a week number (1-54) that corresponds to the week of the year.",
+        "longDescription": [
+            "Takes a date and returns a week number (1-54) that corresponds to the week of the year."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#weekofyear",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "WEEK",
+            "YEAR"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/weekofyear.png",
+                "alt": "Week of Year"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    },
+    {
+        "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+        "name": "pnp-powerfx-samples-date-functions-yearfraction",
+        "version": "1.0.0.0",
+        "source": "pnp",
+        "creationDateTime": "2021-02-08T00:00:00.000Z",
+        "updateDateTime": "2021-02-08T00:00:00.000Z",
+        "title": "YearFraction",
+        "shortDescription": "Calculates a decimal number representing the fraction of a year between two dates.",
+        "longDescription": [
+            "Calculates a decimal number representing the fraction of a year between two dates."
+        ],
+        "url": "https://github.com/pnp/powerfx-samples/tree/main/samples/date-functions#yearfraction",
+        "products": [
+            "Power Apps",
+            "Power Platform"
+        ],
+        "tags": [
+            "DATE",
+            "YEAR",
+            "DECIMAL",
+            "RANGE"
+        ],
+        "categories": [
+            "POWERFX"
+        ],
+        "metadata": [
+            {
+                "key": "POWERAPPS-MANIFEST-VERSION",
+                "value": "0.20"
+            }
+        ],
+        "thumbnails": [
+            {
+                "type": "image",
+                "order": 100,
+                "url": "https://github.com/pnp/powerfx-samples/raw/main/samples/date-functions/assets/yearfraction.png",
+                "alt": "Year Fraction"
+            }
+        ],
+        "authors": [
+            {
+                "gitHubAccount": "matthewdevaney",
+                "name": "Matthew Devaney",
+                "pictureUrl": "https://github.com/matthewdevaney.png"
+            }
+        ],
+        "references": [
+            {
+                "name": "Enhanced Component Properties",
+                "description": "Blog post announcing the enhanced component custom properties for Power Apps",
+                "url": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"
+            },
+            {
+                "name": "Power Apps Formula Reference",
+                "description": "Formula reference guide for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+            }
+        ]
+    }
+]

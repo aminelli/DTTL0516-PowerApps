@@ -1,0 +1,250 @@
+{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json",
+  "runs": [
+    {
+      "columnKind": "utf16CodeUnits",
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "results": [
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Date Functions.EndOfWeek"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Date Functions.EndOfWeek",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 489,
+                  "snippet": {
+                    "text": "+"
+                  }
+                }
+              },
+              "properties": {
+                "member": "EndOfWeek",
+                "module": "Date Functions",
+                "type": "Date Functions"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DateTime",
+              "Time"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadOperatorTypes",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Date Functions.IsInCurrentWeek"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Date Functions.IsInCurrentWeek",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 816,
+                  "snippet": {
+                    "text": "+"
+                  }
+                }
+              },
+              "properties": {
+                "member": "IsInCurrentWeek",
+                "module": "Date Functions",
+                "type": "Date Functions"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DateTime",
+              "Time"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadOperatorTypes",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Title Screen.fx_Date.IsInCurrentWeek"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Title Screen.fx_Date.IsInCurrentWeek",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 816,
+                  "snippet": {
+                    "text": "+"
+                  }
+                }
+              },
+              "properties": {
+                "member": "IsInCurrentWeek",
+                "module": "Title Screen",
+                "type": "Title Screen.fx_Date"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DateTime",
+              "Time"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadOperatorTypes",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Title Screen.fx_Date.EndOfWeek"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Title Screen.fx_Date.EndOfWeek",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 489,
+                  "snippet": {
+                    "text": "+"
+                  }
+                }
+              },
+              "properties": {
+                "member": "EndOfWeek",
+                "module": "Title Screen",
+                "type": "Title Screen.fx_Date"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DateTime",
+              "Time"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadOperatorTypes",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.Business-Cat"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.Business-Cat",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "Business-Cat",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 1
+        }
+      ],
+      "tool": {
+        "driver": {
+          "fullName": "PowerApps app checker",
+          "name": "PowerApps app checker",
+          "rules": [
+            {
+              "id": "app-ErrBadOperatorTypes",
+              "messageStrings": {
+                "issue": {
+                  "text": "This operation isn't valid on these types: {0}, {1}."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-UnusedMediaResources",
+              "messageStrings": {
+                "issue": {
+                  "text": "Unused media files"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove the unused media file in the Media pane."
+                ],
+                "level": "Medium",
+                "primaryCategory": "performance",
+                "whyFix": "This media file is not referenced by any control formulas so it is not needed. Removing it will improve performance."
+              }
+            }
+          ],
+          "version": "1.317"
+        }
+      }
+    }
+  ],
+  "version": "2.1.0"
+}
